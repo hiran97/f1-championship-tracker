@@ -1,9 +1,6 @@
 # Project Overview
 This project visualises Formula 1 driver and team performance from 2022 to 2024, analysing key race statistics and improvements over the current regulation period. The data is scraped from the official Formula 1 website and processed using Python. Various visualizations are generated to showcase team and driver performance, particularly highlighting McLaren's remarkable improvement.
 
-# Clone the repository
-git clone https://github.com/yourusername/f1-championship-tracker.git
-
 # Install the required dependencies
 pip install -r requirements.txt
 
